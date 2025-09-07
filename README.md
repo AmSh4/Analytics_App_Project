@@ -46,11 +46,11 @@ This project demonstrates skills aligned with an Analytics Engineering role:
 
 ## Quick Start
 
-Install requirements:
+### Install requirements:
 
     pip install -r requirements.txt
 
-Then run the pipeline:
+### Then run the pipeline:
 
     python scripts/pipeline.py
 
